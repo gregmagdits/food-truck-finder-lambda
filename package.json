@@ -1,0 +1,22 @@
+{
+  "name": "food-truck-finder-lambda",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "description": "backend for food truck finder app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregmagdits/food-truck-finder-lambda.git"
+  },
+  "author": "greg magdits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregmagdits/food-truck-finder-lambda/issues"
+  },
+  "homepage": "https://github.com/gregmagdits/food-truck-finder-lambda#readme"
+}
