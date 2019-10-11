@@ -29,7 +29,7 @@ exports.handler = async (event) => {
                 connection.end();
                 const response = {
                     statusCode: 200,
-                    body: JSON.stringify(results),
+                    body: results,
                     error: error
                 };
                 resolve(response);
